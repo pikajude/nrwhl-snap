@@ -1,0 +1,7 @@
+body header.navbar #nrwhl-navbar > ul > li > a {
+  color: #f4f4f4;
+}
+
+body header.navbar #nrwhl-navbar > ul > li > a.avatar-pic-link {
+  padding: 10px;
+}
